@@ -4,7 +4,6 @@ Welcome to the kitchen.
 
  tomato bath 
  pasta
-
 chicken fry
 
 beans 
@@ -14,3 +13,9 @@ burger
 thank you
 
 DONE MY CHANGES
+
+
+thank you
+
+FINAL COPY
+
